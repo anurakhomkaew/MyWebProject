@@ -4,3 +4,9 @@
 - List 1
 - List 2
 - List 3
+# Example code
+<javascript>
+  alert('ok')
+</javascript>
+# Credit
+[link][anurakho@ais.co.th]
